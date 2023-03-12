@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head><title>Most Commonly Used Statistical Tool For Research</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="logo.png" alt="SIR JAYMARK - Statistics and Probability">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="9" cellpadding = "9">
+<tr>
+<td><a href="index.html">HOME</a></td>
+<td><a href="frequency.html">FREQUENCY</a></td>
+<td><a href="percentage.html">PERCENTAGE</a></td>
+<td><a href="weighted mean.html">WEIGHTED MEAN</a></td>
+<td><a href="composite mean.html">COMPOSITE MEAN</a></td>
+<td><a href="scoring.html">SCORING</a></td>
+<td><a href="ranking.html">RANKING</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>Welcome to Sir Jay Mark's Site!</h2>
+
+<video src="mp4/home.mp4.mp4" controls="" muted="" autoplay=""></video>
+</body>
